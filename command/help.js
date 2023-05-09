@@ -15,8 +15,8 @@ function toCommas(x) {
 exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isCreator, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
-Hitung Mundur Idul Fitri 🌙 
-${mundur}
+ 
+ Follow Ig @bangsmithhh
 
 *STATISTICS*
  • Upload : ${upload}
@@ -540,4 +540,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `unlimited=10k,ketik .owner untuk sewa bot`
